@@ -25,28 +25,74 @@
     <string name="eat_safely">Eat Safely</string>
     <string name="features_body">Create allergy cards: Use the \"Add New Card\" button, select the language and allergy and then press the \"Create Card\" button. \n\nView a card: Tap a previously created card.\n\nView different cards: Swipe a card to the left or right to view the next card. \n\nDelete allergy cards: Swipe a card to the right.\n\nAdditional options: Tap and hold a card in the home screen to view additional options.</string>
 
-    <string name="soya">Found sometimes in bean curd, edamame beans, miso pates, textured soya protein, soya flour or tofu, soya is a staple ingredient in oriental food. It can be found in desserts, ice cream, meat products, sauces and vegetarian products.</string>
-    <string name="gluten">Wheat, rye, barley and oats are often found in foods containing flour, some baking powder, batter, breadcrumbs, cakes, couscous, meat products, pasta, pastry, sauces, soups and some fried food.</string>
-    <string name="peanut">Peanuts are often used as an ingredient in biscuits, cakes, curries, desserts, sauces, groundnut oil and peanut flour.</string>
-    <string name="treenut">Treenuts include Almonds, Hazelnuts, Walnuts, Cashews, Pecan Nuts, Brazil Nuts, Pistachio Nuts, Macadamia or Queensland Nuts</string>
-    <string name="mustard">This includes Mustard in the form of powder, liquid and seeds. This ingredient is used in breads, curries, marinades, meat products, salad dressings, sauces and soups.</string>
-    <string name="dairy">Milk is found in dairy products such as butter, cheese, cream, milk powders and yoghurt. Some foods are also glazed with milk during cooking. It’s also commonly found in powdered soups and sauces.</string>
-    <string name="eggs">Eggs are found in cakes, some meat products, mayonnaise, mousses, pasta, quiche, sauces and pastries. Some food products are glazed with eggs during cooking.</string>
-    <string name="seasame">These are found commonly in bread, usually sprinkled on buns such as hamburger buns, bread sticks, houmous, sesame oil and tahini</string>
-    <string name="fish">Fish is often found in some sauces in pizzas, relishes, salad dressings, stock cubes and Worcestershire sauce</string>
-    <string name="celery">This includes the celery stalks, leaves, seeds and the root. Usually found in celery salt, salads, some meat products, soups and stock cubes.</string>
-    <string name="crustaceans">Crabs, lobster, prawns and scampi are crustaceans. Shrimp paste is an allergen in this category that is commonly used in Thai and South-east Asian cooking</string>
-    <string name="lupin">Lupin is a flower, but it is also sometimes found in flour and is sometimes used in bread, pastries and pasta.</string>
-    <string name="sulphides">This is an ingredient often used in dried fruits and in some meat products, soft drinks, vegetables, wine and beer.</string>
-    <string name="molluscs">Molluscs includes mussels, land snails, squid and whelks, but can also be found in oyster sauce.</string>
+    <!--<string name="soya">Found sometimes in bean curd, edamame beans, miso pates, textured soya protein, soya flour or tofu, soya is a staple ingredient in oriental food. It can be found in desserts, ice cream, meat products, sauces and vegetarian products.</string>-->
+    <!--<string name="gluten">Wheat, rye, barley and oats are often found in foods containing flour, some baking powder, batter, breadcrumbs, cakes, couscous, meat products, pasta, pastry, sauces, soups and some fried food.</string>-->
+    <!--<string name="peanut">Peanuts are often used as an ingredient in biscuits, cakes, curries, desserts, sauces, groundnut oil and peanut flour.</string>-->
+    <!--<string name="treenut">Treenuts include Almonds, Hazelnuts, Walnuts, Cashews, Pecan Nuts, Brazil Nuts, Pistachio Nuts, Macadamia or Queensland Nuts</string>-->
+    <!--<string name="mustard">This includes Mustard in the form of powder, liquid and seeds. This ingredient is used in breads, curries, marinades, meat products, salad dressings, sauces and soups.</string>-->
+    <!--<string name="dairy">Milk is found in dairy products such as butter, cheese, cream, milk powders and yoghurt. Some foods are also glazed with milk during cooking. It’s also commonly found in powdered soups and sauces.</string>-->
+    <!--<string name="eggs">Eggs are found in cakes, some meat products, mayonnaise, mousses, pasta, quiche, sauces and pastries. Some food products are glazed with eggs during cooking.</string>-->
+    <!--<string name="seasame">These are found commonly in bread, usually sprinkled on buns such as hamburger buns, bread sticks, houmous, sesame oil and tahini</string>-->
+    <!--<string name="fish">Fish is often found in some sauces in pizzas, relishes, salad dressings, stock cubes and Worcestershire sauce</string>-->
+    <!--<string name="celery">This includes the celery stalks, leaves, seeds and the root. Usually found in celery salt, salads, some meat products, soups and stock cubes.</string>-->
+    <!--<string name="crustaceans">Crabs, lobster, prawns and scampi are crustaceans. Shrimp paste is an allergen in this category that is commonly used in Thai and South-east Asian cooking</string>-->
+    <!--<string name="lupin">Lupin is a flower, but it is also sometimes found in flour and is sometimes used in bread, pastries and pasta.</string>-->
+    <!--<string name="sulphides">This is an ingredient often used in dried fruits and in some meat products, soft drinks, vegetables, wine and beer.</string>-->
+    <!--<string name="molluscs">Molluscs includes mussels, land snails, squid and whelks, but can also be found in oyster sauce.</string>-->
+
+
+    <string name="gluten">Cereals containing gluten namely wheat (such as spelt and Khorasan wheat), rye, barley, oats and their hybridised strains and products made from , except:
+a) wheat based glucose syrups including dextrose
+b) wheat based maltodextrins
+c) glucose syrups based on barley
+d) cereals used for making alcoholic distillates including ethyl alcohol of agricultural origin
+</string>
+
+    <string name="crustaceans">Crustaceans (for example prawns, lobster, crabs and crayfish) and products made from crustaceans.</string>
+
+
+    <string name="eggs">Egg and products made from eggs.</string>
+
+    <string name="fish">Fish and products made from fish, except:\n
+a) fish gelatine used as carrier for vitamin or carotenoid preparations
+b) fish gelatine or Isinglass used as a fining agent in beer and wine</string>
+
+    <string name="peanut">Peanuts and products made from peanuts.</string>
+
+    <string name="soya">Soybeans and products made from soybeans, except:
+a) fully refined soybean oil and fat
+b) natural mixed toco pherols (E306), natural D-alphatocopherols, natural D-alpha tocopherol acetate and natural D-alpha tocopherol succinate from soybean sources
+c) vegetable oils derived phytosterols and phytosterol esters from soybean sources
+d) plant stanol ester produced from vegetable oil sterols from soybean sources
+</string>
+
+    <string name="dairy">Milk and products made from milk(including lactose), except:
+a) whey used for making alcoholic distillates including ethyl alcohol of agricultural origin
+b) lactitol
+</string>
+
+    <string name="treenut">Treenuts (namely almond, hazelnut, walnut, cashew, pecan nut, Brazil nut, pistachio nut and Macadamia nut(Queensland nut))and products made from  except for nuts used for making alcoholic distillates including ethyl alcohol of agricultural origin.</string>
+
+    <string name="celery">Celery and products made from celery.</string>
+
+    <string name="mustard">Mustard and products made from mustard.</string>
+
+    <string name="seasame">Sesame seeds and products made from or that contain seasame seeds.</string>
+
+    <string name="sulphides">Sulphur dioxide and/ or sulphites at concentrations of more than 10mg/kg or 10mg/L(litre) in terms of the total SO2 which are to be 13 calculated for products as proposed ready for consumption or as reconstituted according to the instructions of the manufacturers.</string>
+
+    <string name="lupin">Lupin and products made from lupin.</string>
+
+    <string name="molluscs">Molluscs and products made from molluscs (for example mussels, clams, oysters, scallops, snails and squid).</string>
+
 
     <!-- Nav Drawer Menu Items -->
     <string-array name="nav_drawer_items">
-        <item >App Features</item>
-        <item >Upgrade to PRO</item>
-        <item >About</item>
-        <item >Rate The App</item>
-        <item >Version</item>
+        <item>App Features</item>
+        <item>Upgrade to PRO</item>
+        <item>About</item>
+        <item>Rate The App</item>
+        <item>Version</item>
     </string-array>
 
 
