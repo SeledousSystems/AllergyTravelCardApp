@@ -41,33 +41,33 @@
     <!--<string name="molluscs">Molluscs includes mussels, land snails, squid and whelks, but can also be found in oyster sauce.</string>-->
 
 
-    <string name="gluten">Wheat, rye, barley and oats are often found in foods containing flour, some baking powder, batter, breadcrumbs, cakes, couscous, meat products, pasta, pastry, sauces, soups and some fried food.</string>
+    <string name="gluten">Gluten includes wheat, rye, barley and oats. These are often found in foods containing flour, some baking powder, batter, breadcrumbs, cakes, couscous, meat products, pasta, pastry, sauces, soups and some fried food.</string>
 
     <string name="crustaceans">Crabs, lobster, prawns and scampi are crustaceans. Shrimp paste is an allergen in this category that is commonly used in Thai and South-east Asian cooking.</string>
 
     <string name="eggs">Eggs are found in cakes, some meat products, mayonnaise, mousses, pasta, quiche, sauces and pastries. Some food products are glazed with eggs during cooking.</string>
 
-    <string name="fish">You may find fish sauces in pizzas, relishes, salad dressings, stock cubes and Worcestershire sauce.</string>
+    <string name="fish">As well as fish meat, you may find fish sauces in pizzas, relishes, salad dressings, stock cubes and Worcestershire sauce.</string>
 
-    <string name="peanut">Peanuts are often used as an ingredient in biscuits, cakes, curries, desserts, sauces, groundnut oil and peanut flour.</string>
+    <string name="peanut">Peanuts are often used as an ingredients in biscuits, cakes, curries, desserts, sauces, groundnut oil and peanut flour.</string>
 
-    <string name="soya">Found sometimes in bean curd, edamame beans, miso pates, textured soya protein, soya flour or tofu, soya is a staple ingredient in oriental food. It can be found in desserts, ice cream, meat products, sauces and vegetarian products.</string>
+    <string name="soya">Soya can be found in bean curd, edamame beans, miso pates, textured soya protein, soya flour or tofu. Soya is a staple ingredient in oriental food. It can be found in desserts, ice cream, meat products, sauces and vegetarian products.</string>
 
-    <string name="dairy">Milk is found in dairy products such as butter, cheese, cream, milk powders and yoghurt. Some foods are also glazed with milk during cooking. It’s also commonly found in powdered soups and sauces.</string>
+    <string name="dairy">Dairy includes butter, cheese, cream, milk powders and yoghurt. Some foods are also glazed with milk during cooking. Daity products are also commonly found in powdered soups and sauces.</string>
 
-    <string name="treenuts">Nuts (excluding Peanuts) refers to nuts that are grown on trees; unlike peanuts, which are grown underground. This includes cashew nuts, almonds and hazelnuts.</string>
+    <string name="treenuts">TreeNuts (excluding Peanuts) refers to nuts that are grown on trees; unlike peanuts, which are grown underground. This includes cashew nuts, almonds and hazelnuts.</string>
 
     <string name="celery">This includes the celery stalks, leaves, seeds and the root. Usually found in celery salt, salads, some meat products, soups and stock cubes.</string>
 
-    <string name="mustard">This includes Mustard in the form of powder, liquid and seeds. This ingredient is used in breads, curries, marinades, meat products, salad dressings, sauces and soups.</string>
+    <string name="mustard">Mustard can be found as a powder, liquid or seeds. Mustard is used in breads, curries, marinades, meat products, salad dressings, sauces and soups.</string>
 
-    <string name="sesame">These are found commonly in bread, usually sprinkled on buns such as hamburger buns, bread sticks, houmous, sesame oil and tahini.</string>
+    <string name="sesame">Sesame is commonly found in bread, usually sprinkled on buns such as hamburger buns, bread sticks, hummus, sesame oil and tahini.</string>
 
-    <string name="sulphides">This is an ingredient often used in dried fruits and in some meat products, soft drinks, vegetables, wine and beer. Asthmatics have a higher risk of developing an allergy to sulphites.</string>
+    <string name="sulphides">Sulphides are often used in dried fruits and in some meat products, soft drinks, vegetables, wine and beer. Asthmatics have a higher risk of developing an allergy to sulphites.</string>
 
-    <string name="lupin">Lupin is a flower, but it is also sometimes found in flour and is sometimes used in bread, pastries and pasta.</string>
+    <string name="lupin">Lupin is a flower, but it can be found in bread, pastries and pasta.</string>
 
-    <string name="molluscs">Includes mussels, land snails, squid and whelks, but can also be found in oyster sauce, which is commonly used in fish stews for example.</string>
+    <string name="molluscs">Molluscs includes mussels, land snails, squid and whelks, but can also be found in oyster sauce, which is commonly used in fish stews for example.</string>
 
     <!--<string name="gluten2">Cereals containing gluten, namely wheat (such as spelt and Khorasan wheat), rye, barley, oats and their hybridised strains. Exclusions include:-->
 <!--a) wheat based glucose syrups including dextrose-->
@@ -203,9 +203,6 @@ Hydrolysates — Casein hydrolysate, Milk protein hydrolysate, Protein hydrolysa
 </string>
     <string name="molluscs_foods">Ethnic Food, Soups, Sauces, Mussel dishes, Scallops, Calamari.
 </string>
-
-
-
 
     <!-- Nav Drawer Menu Items -->
     <string-array name="nav_drawer_items">
