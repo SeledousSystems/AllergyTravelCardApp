@@ -43,7 +43,7 @@
 
     <string name="gluten">Gluten includes wheat, rye, barley and oats. These are often found in foods containing flour, some baking powder, batter, breadcrumbs, cakes, couscous, meat products, pasta, pastry, sauces, soups and some fried food.</string>
 
-    <string name="crustaceans">Crabs, lobster, prawns and scampi are crustaceans. Shrimp paste is an allergen in this category that is commonly used in Thai and South-east Asian cooking.</string>
+    <string name="crustaceans">Crustaceans includes crabs, lobster, prawns and scampi. Shrimp paste is an allergen in this category that is commonly used in Thai and South-east Asian cooking.</string>
 
     <string name="eggs">Eggs are found in cakes, some meat products, mayonnaise, mousses, pasta, quiche, sauces and pastries. Some food products are glazed with eggs during cooking.</string>
 
@@ -57,7 +57,7 @@
 
     <string name="treenuts">TreeNuts (excluding Peanuts) refers to nuts that are grown on trees; unlike peanuts, which are grown underground. This includes cashew nuts, almonds and hazelnuts.</string>
 
-    <string name="celery">This includes the celery stalks, leaves, seeds and the root. Usually found in celery salt, salads, some meat products, soups and stock cubes.</string>
+    <string name="celery">Celery includes the celery stalks, leaves, seeds and the root. Usually found in celery salt, salads, some meat products, soups and stock cubes.</string>
 
     <string name="mustard">Mustard can be found as a powder, liquid or seeds. Mustard is used in breads, curries, marinades, meat products, salad dressings, sauces and soups.</string>
 
