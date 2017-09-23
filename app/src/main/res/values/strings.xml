@@ -210,7 +210,7 @@ Hydrolysates — Casein hydrolysate, Milk protein hydrolysate, Protein hydrolysa
         <item>Upgrade to PRO</item>
         <item>About</item>
         <item>Rate The App</item>
-        <item>Allergy Resources</item>
+        <!--<item>Allergy Resources</item>-->
         <item>Version</item>
     </string-array>
 

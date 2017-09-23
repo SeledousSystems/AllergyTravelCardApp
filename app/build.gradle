@@ -6,9 +6,9 @@ android {
     defaultConfig {
         applicationId "com.wright.paul.allergytranslationcardapp"
         minSdkVersion 18
-        targetSdkVersion 26
-        versionCode 31
-        versionName "2.1.0"
+        targetSdkVersion 22
+        versionCode 33
+        versionName "2.2.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
