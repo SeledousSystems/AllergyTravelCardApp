@@ -68,7 +68,6 @@
             android:layout_weight="1"
             android:gravity="center"
             android:padding="1sp"
-            android:text="This is some auto-scaling text"
             app:autoSizeMaxTextSize="100sp"
             app:autoSizeMinTextSize="12sp"
             app:autoSizeStepGranularity="2sp"
