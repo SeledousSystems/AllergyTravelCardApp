@@ -7,13 +7,14 @@ android {
         applicationId "com.wright.paul.allergytranslationcardapp"
         minSdkVersion 18
         targetSdkVersion 22
-        versionCode 34
+        versionCode 35
         versionName "2.2.0"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     signingConfigs {
         release {
+
             storeFile file("AllergyCardKeyStore.jks")
             storePassword "3l3ph@ntAS"
             keyAlias "AllergyCardKeyStore"
