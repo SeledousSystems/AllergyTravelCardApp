@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer name="Afrikaans">21</integer>
-    <integer name="Albanian">21</integer>
+    <integer name="Albanian">20</integer>
     <integer name="Bosnian">21</integer>
     <integer name="Chinese">30</integer>
     <integer name="Croatian">21</integer>
@@ -13,7 +13,7 @@
     <integer name="Finnish">23</integer>
     <integer name="French">21</integer>
     <integer name="German">20</integer>
-    <integer name="Greek">16</integer>
+    <integer name="Greek">20</integer>
     <integer name="Hindi">24</integer>
     <integer name="Hungarian">23</integer>
     <integer name="Icelandic">23</integer>
@@ -29,9 +29,9 @@
     <integer name="Russian">18</integer>
     <integer name="Slovak">20</integer>
     <integer name="Slovenian">20</integer>
-    <integer name="Spanish">20</integer>
+    <integer name="Spanish">24</integer>
     <integer name="Swedish">20</integer>
-    <integer name="Thai">18</integer>
+    <integer name="Thai">26</integer>
     <integer name="Turkish">22</integer>
     <integer name="Vietnamese">22</integer>
 </resources>
