@@ -86,8 +86,8 @@
         <item>the British Indian Ocean Territory</item>
         <item>the British Virgin Islands</item>
         <item>Canada</item>
-        <item>the Cayman Islands</item>
-        <item>the Falkland Islands</item>
+        <item>The Cayman Islands</item>
+        <item>The Falkland Islands</item>
         <item>Gibraltar</item>
         <item>Grenada</item>
         <item>Guam</item>
@@ -110,7 +110,7 @@
         <item>Trinidad \&amp; Tobago</item>
         <item>United Kingdom</item>
         <item>The Virgin Islands</item>
-        <item>United States</item>
+        <item>The United States</item>
     </string-array>
 
     <string-array name="chinese">
@@ -171,7 +171,7 @@
         <item>Sudan</item>
         <item>Syria</item>
         <item>Tunisia</item>
-        <item>United Arab Emirates</item>
+        <item>The United Arab Emirates</item>
         <item>Yemen</item>
         <item>Palestine</item>
         <item>Western Sahara</item>
@@ -203,7 +203,7 @@
         <item>Mali</item>
         <item>Monaco</item>
         <item>Niger</item>
-        <item>Republic of the Congo</item>
+        <item>The Republic of the Congo</item>
         <item>Rwanda</item>
         <item>Senegal</item>
         <item>Seychelles</item>
@@ -234,7 +234,7 @@
         <item>Belgium(Flanders)</item>
         <item>Suriname</item>
         <item>Aruba</item>
-        <item>Dutch Antilles</item>
+        <item>The Dutch Antilles</item>
     </string-array>
 
     <string-array name="afrikaans">
@@ -260,7 +260,7 @@
     </string-array>
 
     <string-array name="czech">
-        <item>Czech Republic</item>
+        <item>The Czech Republic</item>
     </string-array>
 
     <string-array name="greek">
